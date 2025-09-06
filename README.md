@@ -107,6 +107,6 @@ Visit: http://127.0.0.1:5000/ in your browser.
 Contributions, issues, and feature requests are welcome. Feel free to fork the repo and submit a pull request!
 
 📬 Contact
-Developer: Vishal Jadhav
-Email: v707jadhav@gmail.com
-LinkedIn: https://www.linkedin.com/in/vishal-jadhav-aiml/
+Developer: Kishor Avhad
+Email: kishoravhad3456@gmail.com
+LinkedIn: www.linkedin.com/in/kishor-avhad-a00572235
